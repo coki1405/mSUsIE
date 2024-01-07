@@ -1,6 +1,9 @@
 # mSUsIE: multimodal Search Using Image Encoders (Group 15)
+
+[Slides](presentation.pdf)
+
 ## Team members
-- Benedikt Kantz: Model Search, Dataset preparation  \
+- Benedikt Kantz: Model Search, Dataset preparation 
 - Corinna Kindlhofer: Evaluation, Metrics
 
 ## How to run
